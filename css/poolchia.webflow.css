@@ -1007,6 +1007,14 @@ a {
   z-index: 79;
 }
 
+.card-h3 {
+  text-align: center;
+}
+
+.card1 {
+  box-shadow: 4px 4px 3px 0 rgba(0, 0, 0, 0.15);
+}
+
 @media screen and (max-width: 991px) {
   .hero-subhead {
     font-size: 24px;
@@ -1245,6 +1253,27 @@ a {
   }
 
   #w-node-_1c7bbb4e-4e18-9962-50c8-c4ee1c945629-c1d6c45f {
+    -ms-grid-column: span 1;
+    grid-column-start: span 1;
+    -ms-grid-column-span: 1;
+    grid-column-end: span 1;
+  }
+
+  #w-node-_1c7bbb4e-4e18-9962-50c8-c4ee1c94561b-b608d6c3 {
+    -ms-grid-column: span 1;
+    grid-column-start: span 1;
+    -ms-grid-column-span: 1;
+    grid-column-end: span 1;
+  }
+
+  #w-node-_1c7bbb4e-4e18-9962-50c8-c4ee1c945622-b608d6c3 {
+    -ms-grid-column: span 1;
+    grid-column-start: span 1;
+    -ms-grid-column-span: 1;
+    grid-column-end: span 1;
+  }
+
+  #w-node-_1c7bbb4e-4e18-9962-50c8-c4ee1c945629-b608d6c3 {
     -ms-grid-column: span 1;
     grid-column-start: span 1;
     -ms-grid-column-span: 1;
